@@ -12,10 +12,16 @@ The purpose of this project was to analyze crime in New York City so that the Ne
 
 
 Insights:
+
   •	The three boroughs Staten Island, Queens, Kingsborough needed more attention.
   •	Most crimes began to rise by September and peaked in December.
+  
 Hypothesis:
+
   •	With the beginning of the school year, children spent most of the daytime at school and were deprived of activity, having no outlet for their energy.
+  
 Recommendation:  
+
   Distribute money to the Department of Youth and Community Development (DYCD), which oversees and monitors a range of programs for young New Yorkers under contract with   local community organizations, for DYCD to distribute budget to areas that need more attention to provide indoor activities for youth.
+  
     •	Youth are less likely to become a victim of a crime, or engage in dangerous activities if they are kept busy. 
